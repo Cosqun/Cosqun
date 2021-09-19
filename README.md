@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cosqun
+- 🌱 I’m currently learning C#
+- 📫 How to reach me cosgunkerimli@gmail.com
